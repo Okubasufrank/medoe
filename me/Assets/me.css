@@ -12,3 +12,19 @@ html{
 body{
     background-color: rgb(219, 159, 159);
 }
+
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 45px;
+    padding: 5vh 7%;
+    background-color: antiquewhite;
+}
+
+.reg{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    padding-right: 30px;
+}
